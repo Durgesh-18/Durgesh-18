@@ -30,14 +30,7 @@
 - Integrated **multi-tool AI workflows (GitHub, Notion)**
 - Achieved **85%+ task completion rate**
 
----
 
----
-
-##  Connect With Me
-- [LinkedIn](https://www.linkedin.com/in/durgesh-pathak-40350128b/)
-- [GitHub](https://github.com/Durgesh-18)
-- [Email](dkpathakw2023@gmail.com)
 
 ---
 
