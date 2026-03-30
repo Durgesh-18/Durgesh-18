@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Durgesh Kumar
+# 👋 Hi, I'm Durgesh 
 
 ###  An AI Engineer specializing in Machine Learning, Backend Development, and MLOps
 
