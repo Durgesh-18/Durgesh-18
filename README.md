@@ -1,13 +1,11 @@
 # 👋 Hi, I'm Durgesh 
 
-###  An AI Engineer specializing in Machine Learning, Backend Development, and MLOps
-
+###  An AI Engineer specializing in Artificial Intelligence and Data Science.
 ---
 
 ## About Me
 -  B.E. in Artificial Intelligence & Machine Learning (2023–2027)
 -  Passionate about building **production-grade AI systems**
--  Experienced in **MLOps pipelines, RAG systems, and scalable backend architectures**
 -  Strong interest in **Model Fine-tuning, AI Systems Design, and Real-world ML Applications**
 
 ---
